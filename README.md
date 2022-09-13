@@ -6,7 +6,7 @@
 系級：師大科技114級
 # 作業區
 + 課堂任務
-    +   建立github
+    +   [建立github](https://github.com/WeiweiHung/Web)
     +   [建立靜態網頁](https://weiweihung.github.io/Web/mypage/)
 + 作業
 + 專題
