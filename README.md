@@ -20,4 +20,5 @@
 + 隨堂筆記
 + 課堂資料
     +  [HTTP](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
+    +  [Node Js 起手式 — 自架一個 Web Server](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
 
