@@ -9,7 +9,7 @@
     +   [建立github](https://github.com/WeiweiHung/Web)
     +   [建立靜態網頁](https://weiweihung.github.io/Web/mypage/)
 + 作業
-    +   [HW1](https://youtu.be/nGYEkSJOacU)
+    +   [HW1_在github建立repo.、建立靜態網站](https://youtu.be/nGYEkSJOacU)
 + 專題
 # :notebook:課堂筆記
 + 課堂ppt  
