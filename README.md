@@ -8,6 +8,7 @@
 + 課堂任務
     +   [建立github](https://github.com/WeiweiHung/Web)
     +   [建立靜態網頁](https://weiweihung.github.io/Web/mypage/)
+    +   [建立web2](https://github.com/WeiweiHung/Web/tree/main/web2)
 + 作業
     +   [HW1_在github建立repo.、建立靜態網站](https://youtu.be/nGYEkSJOacU)
 + 專題
