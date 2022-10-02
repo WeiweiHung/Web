@@ -9,11 +9,16 @@
     +   [建立github](https://github.com/WeiweiHung/Web)
     +   [建立靜態網頁](https://weiweihung.github.io/Web/mypage/)
 + 作業
+    +   [HW1_在github建立repo.、建立靜態網站](https://youtu.be/nGYEkSJOacU)
 + 專題
 # :notebook:課堂筆記
 + 課堂ppt  
     +  [week1](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.g14b30d6fbf4_0_2244)
     +  [week2](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
     +  [week3](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    +  [week4](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + 隨堂筆記
++ 課堂資料
+    +  [HTTP](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
+    +  [Node Js 起手式 — 自架一個 Web Server](https://bird23074035.medium.com/node-js-%E8%B5%B7%E6%89%8B%E5%BC%8F-%E8%87%AA%E6%9E%B6%E4%B8%80%E5%80%8B-web-server-9672f29a6102)
 
