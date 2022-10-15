@@ -11,7 +11,7 @@
     +   [建立web2](https://github.com/WeiweiHung/Web/tree/main/web2)
 + 作業
     +   [HW1_在github建立repo.、建立靜態網站](https://youtu.be/nGYEkSJOacU)
-    +   [HW2_使用MySQL、react、node.js建立Web2](https://youtu.be/Gxk-I83FXVs)
+    +   [HW2_使用MySQL、react、node.js建立Web2](https://youtu.be/SRxwGdF_g6I)
 + 專題
 # :notebook:課堂筆記
 + 課堂ppt  
