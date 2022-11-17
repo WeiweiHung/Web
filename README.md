@@ -17,16 +17,16 @@
 + 專題
 # :notebook:課堂筆記
 + 課堂ppt  
-    +  [week1](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.g14b30d6fbf4_0_2244)
-    +  [week2](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week3](https://docs.google.com/presentation/d/e/2PACX-1vSZo61VUAGVMwmapSMd-GN0wBLRQyTf943MTnphSZR-33nG1cN6LToABqfef0JRq9yZYs-TRp_3zFE9/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week4](https://docs.google.com/presentation/d/e/2PACX-1vRzFbbpzLWLBeQLZibkd6VS3W5pjD9WhoEZd-EQav7x_2bh8nQs3owQPv0Ej-oqlCXYWy4RufLkMicY/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week5](https://docs.google.com/presentation/d/e/2PACX-1vSm19M_AdUOrFG0hGHyuTWdvjHENudxSTDLgQpDghG7HGsW9ljLiPpXhahnFcqS4xU1mbDcXeFk-PMA/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week6](https://docs.google.com/presentation/d/e/2PACX-1vQwXzwsXpz6GtsB2y1adorvi6a0OD3nXORh2g2nnER3YYPWsPKympVULtEOnMLSB4HZOcnsxnmdB1hg/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week7](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week8](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week9](https://docs.google.com/presentation/d/e/2PACX-1vT8HwruQJiCoMUzmtlkEmzC5gCkDD0Ma_5f_3fGuvI8cl8QWc9L-sU-Dc43ZgEk7M9sUm9MWLQMVW7n/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week11](https://docs.google.com/presentation/d/e/2PACX-1vTSqaEeMwLF_Zhjx_SzcggFRlLB9UdF-GRU7eXDf4hlbqQfd_lm0qqLtweAsOW59YFEeLxabarZbt9T/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    +  [week1](https://moodle3.ntnu.edu.tw/pluginfile.php/906185/mod_resource/content/2/1_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week2](https://moodle3.ntnu.edu.tw/pluginfile.php/906186/mod_resource/content/2/2_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week3](https://moodle3.ntnu.edu.tw/pluginfile.php/906187/mod_resource/content/2/3_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week4](https://moodle3.ntnu.edu.tw/pluginfile.php/906188/mod_resource/content/2/4_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week5](https://moodle3.ntnu.edu.tw/pluginfile.php/906189/mod_resource/content/2/5_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week6](https://moodle3.ntnu.edu.tw/pluginfile.php/906190/mod_resource/content/3/6_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week7](https://moodle3.ntnu.edu.tw/pluginfile.php/906191/mod_resource/content/2/7_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week8](https://moodle3.ntnu.edu.tw/pluginfile.php/906192/mod_resource/content/3/8_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week9](https://moodle3.ntnu.edu.tw/pluginfile.php/906193/mod_resource/content/1/9_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
+    +  [week11](https://moodle3.ntnu.edu.tw/pluginfile.php/906117/mod_resource/content/1/11_16%20%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E6%A6%82%E8%AB%96.pdf)
 + 隨堂筆記
 + 課堂資料
     +  [HTTP](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC74v_mCLUXbjj7Ng7oTAPE)
