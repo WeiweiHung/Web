@@ -14,6 +14,7 @@
     +   [HW2_使用MySQL、react、node.js建立Web2](https://youtu.be/SRxwGdF_g6I)
     +   [HW3_AWSeducateLab1(S3)、Lab2(EC2)](https://www.youtube.com/watch?v=m3Z4HbrXcZI)
     +   [HW4_AWSeducateLab5(VPC)、Lab6(IAM)](https://youtu.be/OhVmjd5JlU0)
+    +   [HW5_AWSeducateLab3、Lab4、Lab7](https://youtu.be/jJPr8ZVt5W8)
 + 專題
 # :notebook:課堂筆記
 + 課堂ppt  
